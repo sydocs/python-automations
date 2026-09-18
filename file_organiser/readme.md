@@ -28,7 +28,7 @@ This script automatically organises files into folders based on their file exten
 python file_organizer.py
 ```
 
-```python
+```text
 Enter directory path:
 ```
 
