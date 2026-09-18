@@ -10,9 +10,9 @@ This script automatically organises files into folders based on their file exten
 
 | File | Category |
 |---|---|
-| report.pdf | Document |
-| photo.jpg | Image |
-| project.ppt | Other |
+| report.pdf | Documents |
+| image.jpg | Images |
+| project.ppt | Others |
 
 > After
 
