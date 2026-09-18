@@ -25,10 +25,12 @@ This script automatically organises files into folders based on their file exten
 ### How to run
 
 ```python
-python3 file_organizer.py
+python file_organizer.py
 ```
 
-Enter directory path.
+```python
+Enter directory path:
+```
 
 
 
